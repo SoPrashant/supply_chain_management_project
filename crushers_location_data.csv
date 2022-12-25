@@ -1,0 +1,4 @@
+DestinationLocationName,DestinationLocationDescription,Lat,Lng,Average - Service Time,Std Dev - Service Time
+CR1,Crush1,23.38190426,86.1051948,60,120
+CR2,Crush2,23.38332413,86.1815807,60,120
+CR3,Crush3,23.33402349,86.048421,60,120
